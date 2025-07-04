@@ -1,6 +1,6 @@
-Drawing app using React
+# Drawing app using React
 
-# Setup
+## Setup
 
 **install and setup**
 yarn install
