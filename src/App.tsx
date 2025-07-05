@@ -1,7 +1,6 @@
+import DrawingAppPage from "./pages/DrawingAppPage";
 import "./App.css";
 
-function App() {
-  return <></>;
+export default function App() {
+  return <DrawingAppPage />;
 }
-
-export default App;
